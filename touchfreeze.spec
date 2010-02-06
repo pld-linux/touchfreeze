@@ -1,7 +1,7 @@
 Summary:	Tray applet that disables touchpad automatically while you are typing text
 Name:		touchfreeze
 Version:	0.2.3
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		X11/Applications
 Source0:	http://qsynaptics.sourceforge.net/%{name}-%{version}.tar.gz
