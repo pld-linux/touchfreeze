@@ -8,6 +8,7 @@ Source0:	http://qsynaptics.sourceforge.net/%{name}-%{version}.tar.gz
 # Source0-md5:	819d382dd176e5b14eafc5f1633601ad
 URL:		http://qsynaptics.sourceforge.net/
 BuildRequires:	QtCore-devel
+BuildRequires:	QtGui-devel
 BuildRequires:	qt4-build >= 4.3.3-3
 BuildRequires:	qt4-qmake >= 4.3.3-3
 BuildRequires:	rpmbuild(macros) >= 1.129
